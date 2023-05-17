@@ -1,0 +1,26 @@
+[
+  {
+    "Month": "Sales",
+    "January": 350,
+    "February": 200,
+    "March": 200,
+    "April": 300,
+    "May": 650
+  },
+  {
+    "Month": "Expenses",
+    "January": 220,
+    "February": 10,
+    "March": 120,
+    "April": 190,
+    "May": 350
+  },
+  {
+    "Month": "Profits",
+    "January": 130,
+    "February": 190,
+    "March": 80,
+    "April": 110,
+    "May": 300
+  }
+]
